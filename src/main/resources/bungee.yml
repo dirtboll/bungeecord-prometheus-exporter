@@ -5,3 +5,4 @@ authors: [ akdaia, sldk ]
 main: org.akadia.prometheus.bungeecord.PrometheusBungeeCordExporter
 website: akadia.org
 description: ${project.description}
+depends: [ RedisBungee ]
